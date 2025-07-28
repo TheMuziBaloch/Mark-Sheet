@@ -9,6 +9,7 @@ Here is a clear and professional **README.md** documentation for your GitHub rep
 A simple web-based marksheet system built with **HTML**, **CSS**, and **JavaScript**. It allows users to input student subject marks, validates the inputs, calculates total marks and grade, highlights failed subjects, and enables marksheet printing.
 
 ---
+🔗 Live Demo – <a href="https://themuzibaloch.github.io/Mark-Sheet/">MarkSheet </a>
 
 ### 📌 Features
 
