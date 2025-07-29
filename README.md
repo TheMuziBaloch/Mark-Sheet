@@ -1,8 +1,6 @@
 # Mark-Sheet
 
-Here is a clear and professional **README.md** documentation for your GitHub repository that explains the functionality of your **Student Marksheet Web App** project:
 
----
 
 ## 📄 Student Marksheet Web App
 
